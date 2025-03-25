@@ -1,5 +1,5 @@
 # SmartKitchen Project
-
+**Note:** This project is created as a small example to better understand the concept of composition in object-oriented programming.
 This project simulates a Smart Kitchen system where different appliances (Coffee Maker, Refrigerator, and Dish Washer) perform specific tasks based on their state.
 
 ## Features
